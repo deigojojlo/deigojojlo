@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm valentin</h1>
+
 - 🔭 I’m currently working on **snake**
 
 - 🌱 I’m currently learning **js and ts**
